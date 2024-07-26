@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "property1",
+    "codPost": "29620",
+    "tipologia": "Piso",
+    "precio": "250000",
+    "estado": "Nuevo",
+    "habitaciones": 2,
+    "banos": 1,
+    "metros": 75,
+    "direccion_real": "lorem ipsum",
+    "direccion_publicada": "lorem 1",
+    "img": [
+      {
+        "small": "https://woobiweb.com/testimages/h1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "property2",
+    "codPost": "29600",
+    "tipologia": "Chalet individual",
+    "precio": "450000",
+    "estado": "Nuevo",
+    "habitaciones": 3,
+    "banos": 2,
+    "metros": 120,
+    "direccion_real": "lorem ipsum",
+    "direccion_publicada": "lorem 2",
+    "img": [
+      {
+        "small": "https://woobiweb.com/testimages/h2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "property3",
+    "codPost": "29620",
+    "tipologia": "Piso",
+    "precio": "200000",
+    "estado": "Nuevo",
+    "habitaciones": 1,
+    "banos": 1,
+    "metros": 45,
+    "direccion_real": "lorem ipsum",
+    "direccion_publicada": "lorem 3",
+    "img": [
+      {
+        "small": "https://woobiweb.com/testimages/h3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "property4",
+    "codPost": "29600",
+    "tipologia": "Chalet adosado",
+    "precio": "220000",
+    "estado": "Nuevo",
+    "habitaciones": 1,
+    "banos": 1,
+    "metros": 35,
+    "direccion_real": "lorem ipsum",
+    "direccion_publicada": "lorem 4",
+    "img": [
+      {
+        "small": "https://woobiweb.com/testimages/h4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "property5",
+    "codPost": "29620",
+    "tipologia": "Chalet individual",
+    "precio": "650000",
+    "estado": "Nuevo",
+    "habitaciones": 4,
+    "banos": 2,
+    "metros": 145,
+    "direccion_real": "lorem ipsum",
+    "direccion_publicada": "lorem 5",
+    "img": [
+      {
+        "small": "https://woobiweb.com/testimages/h5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "property6",
+    "codPost": "29600",
+    "tipologia": "Ático",
+    "precio": "450000",
+    "estado": "Nuevo",
+    "habitaciones": 3,
+    "banos": 1,
+    "metros": 95,
+    "direccion_real": "lorem ipsum",
+    "direccion_publicada": "lorem 6",
+    "img": [
+      {
+        "small": "https://woobiweb.com/testimages/h6.jpg"
+      }
+    ]
+  }
+]
